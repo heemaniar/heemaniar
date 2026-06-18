@@ -1,6 +1,6 @@
 ### Hi, I'm Heema 👋
 
-Analytics engineer and strategic data analyst (10+ yrs). I build the pipelines,
+Analytics engineer and strategic data analyst (8+ yrs). I build the pipelines,
 KPI frameworks, and dashboards that teams actually make decisions on — and lately,
 AI agents that do the analysis themselves.
 
