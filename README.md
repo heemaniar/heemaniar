@@ -1,6 +1,6 @@
 ### Hi, I'm Heema 👋
 
-Analytics engineer and strategic data analyst (8+ yrs). I build the pipelines,
+Analytics engineer and strategic data analyst (10+ yrs). I build the pipelines,
 KPI frameworks, and dashboards that teams actually make decisions on — and lately,
 AI agents that do the analysis themselves.
 
@@ -14,7 +14,7 @@ AI agents that do the analysis themselves.
   BigQuery ML · Fivetran MCP).
 - 🔬 **[EvolvBI](https://github.com/heemaniar/evolvbi)** — a SQL analytics agent scored by three
   evals (including a grounding check that catches fabricated numbers) that reads its own failure
-  patterns and rewrites its prompt, traced in Arize Phoenix(Google ADK · Gemini 3 Flash).
+  patterns and rewrites its prompt, traced in Arize Phoenix (Google ADK · Gemini 3 Flash).
 - 📊 **[Revenue Intelligence (Olist)](https://github.com/heemaniar/olist-revenue-intelligence)** — end-to-end build: 99K real Brazilian e-commerce orders → BigQuery + dbt (staging → marts, tested & documented) → a live, code-built Evidence dashboard, with a KPI dictionary, a leadership decision brief, and Claude-tagged sentiment over 1,500 Portuguese reviews.
 - ⚙️ **[Operations Productivity Intelligence](https://github.com/heemaniar/ops-productivity-intelligence)**
   — synthetic Salesforce case data modeled through BigQuery + dbt → Data Studio; mines ticket
